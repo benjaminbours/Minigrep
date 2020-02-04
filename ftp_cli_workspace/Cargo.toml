@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "ftp_cli",
+    "printer",
+    "ftpparse",
+]
